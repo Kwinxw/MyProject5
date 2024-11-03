@@ -1,0 +1,14 @@
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\bin\Debug\net8.0\GAMEOVER.exe
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\bin\Debug\net8.0\GAMEOVER.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\bin\Debug\net8.0\GAMEOVER.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\bin\Debug\net8.0\GAMEOVER.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\bin\Debug\net8.0\GAMEOVER.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\refint\GAMEOVER.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\GAMEOVER.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project5\GAMEOVER\obj\Debug\net8.0\ref\GAMEOVER.dll
